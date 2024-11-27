@@ -1,1 +1,3 @@
+Всем приветик, я Git Bash!
+
 Содержимое для MyNewBranchPoddubova
